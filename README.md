@@ -36,4 +36,5 @@ Use the accompanied Makefile to set it up. Issue make <target\> to make the foll
 * all:    Build image, mount iso, run the container and import the distribution
 * vbox:   Create a VirtualBox VNIC for listening on and issuing DHCP addresses. This is for testing Cobbler functionality in combination with Virtualbox VMs. Requires a working VirtualBox installation.
 
+test
 
